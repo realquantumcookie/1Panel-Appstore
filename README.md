@@ -619,7 +619,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 💬 下一代 AI 一站式解决方案，综合性 AI 服务管理平台
 
-<kbd>3.11.2</kbd> • [官网链接](https://chatnio.net)
+<kbd>4.25.0</kbd> • [官网链接](https://chatnio.net)
 
 </td>
 </tr>
@@ -679,7 +679,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 📥 高性能Usenet下载工具，支持Web界面管理
 
-<kbd>25.2</kbd> • [官网链接](https://nzbget.net/)
+<kbd>25.4</kbd> • [官网链接](https://nzbget.net/)
 
 </td>
 <td width="33%" align="center">
@@ -703,7 +703,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🎬 开箱即用的跨平台影视聚合播放器，支持多源搜索和在线播放
 
-<kbd>4.1.1</kbd> • [官网链接](https://github.com/MoonTechLab/LunaTV)
+<kbd>4.3.0</kbd> • [官网链接](https://github.com/MoonTechLab/LunaTV)
 
 </td>
 </tr>
@@ -775,7 +775,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🖥️ 开源跨平台远程桌面客户端，支持多种协议
 
-<kbd>1.4.35</kbd> • [官网链接](https://remmina.org/)
+<kbd>1.4.40</kbd> • [官网链接](https://remmina.org/)
 
 </td>
 <td width="33%" align="center">
@@ -804,7 +804,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 📊 开源 all-in-one 数据洞察中心，集成网站分析、服务监控、服务器状态监控
 
-<kbd>1.24.22</kbd> • [官网链接](https://tianji.msgbyte.com/)
+<kbd>1.30.18</kbd> • [官网链接](https://tianji.msgbyte.com/)
 
 </td>
 <td width="33%" align="center">
@@ -838,7 +838,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🔄 跨平台P2P文件同步和分享工具
 
-<kbd>3.0.3</kbd> • [官网链接](https://www.resilio.com/sync/)
+<kbd>3.1.2</kbd> • [官网链接](https://www.resilio.com/sync/)
 
 </td>
 <td width="33%" align="center">
@@ -879,7 +879,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🔄 Docker 镜像加速与私有部署服务，支持多平台和多架构
 
-<kbd>0.3.3</kbd> • [官网链接](https://kspeeder.istoreos.com/)
+<kbd>0.4.1</kbd> • [官网链接](https://kspeeder.istoreos.com/)
 
 </td>
 <td width="33%" align="center">
@@ -961,7 +961,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🔐 跨平台开源密码管理器，支持Web界面和多种平台，安全可靠
 
-<kbd>2.7.9</kbd> • [官网链接](https://keepassxc.org/)
+<kbd>2.7.10</kbd> • [官网链接](https://keepassxc.org/)
 
 </td>
 <td width="33%" align="center">
@@ -1029,7 +1029,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🔄 监控Docker基础镜像自动更新
 
-<kbd>8.1.0</kbd> • [官网链接](https://github.com/sergi0g/cup/)
+<kbd>8.1.1</kbd> • [官网链接](https://github.com/sergi0g/cup/)
 
 </td>
 </tr>
@@ -1046,7 +1046,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 ⚡ Docker镜像加速命令查询获取、镜像搜索、配置教程文档展示UI面板
 
-<kbd>latest</kbd> • [官网链接](https://github.com/dqzboy/Docker-Proxy)
+<kbd>4.0.7</kbd> • [官网链接](https://github.com/dqzboy/Docker-Proxy)
 
 </td>
 <td width="33%" align="center">
@@ -1070,7 +1070,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🧙‍♂️ 现代化开源Docker管理Web面板
 
-<kbd>0.15.1</kbd> • [官网链接](https://arcane.ofkm.dev/)
+<kbd>1.9.0</kbd> • [官网链接](https://arcane.ofkm.dev/)
 
 </td>
 </tr>
