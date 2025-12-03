@@ -39,23 +39,23 @@
 
 - **Free-API系列应用已下架，原项目由于供应链投毒，被植入恶意代码，请及时停止运行并删除这些服务！！！**
 
-- 经过几天的排查和重构，已重新上架[GLM-Free-API](https://github.com/xiaoY233/GLM-Free-API)、[MiniMax-Free-API](https://github.com/xiaoY233/MiniMax-Free-API)、[Qwen-Free-API](https://github.com/xiaoY233/Qwen-Free-API)、[Kimi-Free-API](https://github.com/xiaoY233/Kimi-Free-API)，欢迎各位对源码进行审查，如果不放心，建议还是暂停使用！
+- 经过几天的排查和重构，已重新上架[GLM-Free-API](https://github.com/xiaoY233/GLM-Free-API)、[MiniMax-Free-API](https://github.com/xiaoY233/MiniMax-Free-API)、[Qwen-Free-API](https://github.com/xiaoY233/Qwen-Free-API)、[Kimi-Free-API](https://github.com/xiaoY233/Kimi-Free-API)，[DeepSeek-Free-API](https://github.com/xiaoY233/DeepSeek-Free-API),欢迎各位对源码进行审查，如果不放心，建议还是暂停使用！
 
-- 其他的Free-API系列看情况再搞了，后续添加DeepSeek-Free-API应用。
+- 其他的Free-API系列看情况再搞了,后续主要更新上述几个Free-API兼容Gemini-cli和Claude的API接入。
 
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-<!-- <a href="./apps/deepseek-free-api/README.md"> -->
-<!-- <img src="./apps/deepseek-free-api/logo.png" width="60" height="60" alt="DeepSeek-Free-API"> -->
+<a href="./apps/deepseek-free-api/README.md">
+<img src="./apps/deepseek-free-api/logo.png" width="60" height="60" alt="DeepSeek-Free-API">
 <br><b>DeepSeek-Free-API</b>
 </a>
 
 🚀 DeepSeek-V3 & R1大模型逆向API
 
-<kbd>已下架</kbd> • [官网链接](https://github.com/LLM-Red-Team/deepseek-free-api)
+<kbd>1.0.0</kbd> • [官网链接](https://github.com/xiaoY233/DeepSeek-Free-API)
 
 </td>
 <td width="33%" align="center">
