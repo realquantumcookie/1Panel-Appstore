@@ -67,7 +67,7 @@
 
 🚀 KIMI AI 长文本大模型逆向API, 支持Kimi-K2模型
 
-<kbd>1.0.1</kbd> • [官网链接](https://github.com/xiaoY233/Kimi-Free-API)
+<kbd>1.0.2</kbd> • [官网链接](https://github.com/xiaoY233/Kimi-Free-API)
 
 </td>
 <td width="33%" align="center">
