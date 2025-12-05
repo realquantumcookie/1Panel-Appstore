@@ -190,7 +190,7 @@
 
 🚀 Raycast AI的OpenAI兼容API代理，无需Pro订阅
 
-<kbd>latest</kbd> • [官网链接](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy)
+<kbd>0.0.2</kbd> • [官网链接](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy)
 
 </td>
 <td width="33%" align="center">
