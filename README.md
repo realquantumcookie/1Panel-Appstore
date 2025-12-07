@@ -79,7 +79,7 @@
 
 🚀 阿里通义千问3.0大模型逆向API,支持Qwen3-Coder模型
 
-<kbd>1.0.0</kbd> • [官网链接](https://github.com/xiaoY233/Qwen-Free-API)
+<kbd>1.0.1</kbd> • [官网链接](https://github.com/xiaoY233/Qwen-Free-API)
 
 </td>
 </tr>
