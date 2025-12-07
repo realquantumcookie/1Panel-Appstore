@@ -527,7 +527,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🔗 统一的AI模型管理和调用平台，支持多种大语言模型集成
 
-<kbd>0.14.26</kbd> • [官网链接](https://github.com/one-hub/one-hub)
+<kbd>0.14.27</kbd> • [官网链接](https://github.com/one-hub/one-hub)
 
 </td>
 <td width="33%" align="center">
