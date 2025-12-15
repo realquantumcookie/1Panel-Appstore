@@ -881,6 +881,15 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 </td>
 <td width="33%" align="center">
 
+<a href="./apps/docker-socket-proxy/README.md">
+<img src="./apps/docker-socket-proxy/logo.png" width="60" height="60" alt="Docker-Socket-Proxy">
+<br><b>Docker-Socket-Proxy</b>
+</a>
+
+🔒 Docker socket代理，支持访问规则限制和权限控制
+
+<kbd>3.2.9</kbd> • [官网链接](https://github.com/Tecnativa/docker-socket-proxy)
+
 </td>
 </tr>
 </table>
