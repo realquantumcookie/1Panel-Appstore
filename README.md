@@ -668,6 +668,23 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="33%" align="center">
+
+<a href="./apps/next-ai-draw-io/README.md">
+<img src="./apps/next-ai-draw-io/logo.png" width="60" height="60" alt="Next-AI-Draw-IO">
+<br><b>Next AI Draw.io</b>
+</a>
+
+🤖 AI驱动的图表创建工具
+
+<kbd>0.4.1</kbd> • [官网链接](https://next-ai-drawio.jiang.jp/)
+
+</td>
+</tr>
+</table>
+
 #### 🎵 多媒体管理
 
 <table>
