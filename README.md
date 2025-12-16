@@ -682,6 +682,18 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 <kbd>0.4.1</kbd> • [官网链接](https://next-ai-drawio.jiang.jp/)
 
 </td>
+<td width="33%" align="center">
+
+<a href="./apps/open-notebook/README.md">
+<img src="./apps/open-notebook/logo.png" width="60" height="60" alt="Open-Notebook">
+<br><b>Open Notebook</b>
+</a>
+
+📝 私有的、多模型的Google Notebook LM替代方案，支持多模态内容和AI播客生成
+
+<kbd>1.2.4</kbd> • [官网链接](https://www.open-notebook.ai/)
+
+</td>
 </tr>
 </table>
 
