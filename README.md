@@ -580,7 +580,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🚀 MCP聚合器、编排器、中间件、网关于一体的Docker解决方案
 
-<kbd>2.4.21</kbd> • [官网链接](https://github.com/metatool-ai/metamcp)
+<kbd>2.4.22</kbd> • [官网链接](https://github.com/metatool-ai/metamcp)
 
 </td>
 </tr>
