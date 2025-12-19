@@ -694,6 +694,18 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 <kbd>1.2.4</kbd> • [官网链接](https://www.open-notebook.ai/)
 
 </td>
+<td width="33%" align="center">
+
+<a href="./apps/trendradar/README.md">
+<img src="./apps/trendradar/logo.png" width="60" height="60" alt="TrendRadar">
+<br><b>TrendRadar</b>
+</a>
+
+📊 轻量级多平台趋势监控工具，AI驱动的热点话题分析
+
+<kbd>4.0.2</kbd> • [官网链接](https://github.com/sansan0/TrendRadar)
+
+</td>
 </tr>
 </table>
 
