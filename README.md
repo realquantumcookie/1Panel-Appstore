@@ -1191,7 +1191,7 @@ AI驱动的开源代码知识库与文档协作平台，支持多模型、多数
 
 🔔 Docker镜像更新监控和通知工具
 
-<kbd>4.30.0</kbd> • [官网链接](https://github.com/crazy-max/diun)
+<kbd>4.31.0</kbd> • [官网链接](https://github.com/crazy-max/diun)
 
 </td>
 <td width="33%" align="center">
