@@ -1,0 +1,40 @@
+services:
+  speaches:
+    container_name: ${CONTAINER_NAME}
+    deploy:
+      resources:
+          limits:
+              cpus: ${CPUS}
+              memory: ${MEMORY_LIMIT}
+          reservations:
+              devices:
+                  - capabilities:
+                      - gpu
+                    driver: nvidia
+                    count: all
+    restart: unless-stopped
+    networks:
+      - 1panel-network
+    ports:
+      - "${HOST_IP}:${PANEL_APP_PORT_HTTP}:8000"
+    post_start:
+      - command: >
+          sh -lc '
+            sleep 10 &&
+            export SPEACHES_BASE_URL="http://localhost:8000" &&
+            export SECRET_KEY="${SECRET_KEY}" &&
+            curl -sSf "$${SPEACHES_BASE_URL}/v1/models/Systran/faster-whisper-tiny" -H "Authorization: Bearer ${SECRET_KEY}" -X POST &&
+            curl -sSf "$${SPEACHES_BASE_URL}/v1/models/Systran/faster-whisper-small" -H "Authorization: Bearer ${SECRET_KEY}" -X POST &&
+            curl -sSf "$${SPEACHES_BASE_URL}/v1/models/Systran/faster-whisper-large-v3" -H "Authorization: Bearer ${SECRET_KEY}" -X POST &&
+            curl -sSf "$${SPEACHES_BASE_URL}/v1/models/quantumcookie/anime-whisper-ct2-fp16" -H "Authorization: Bearer ${SECRET_KEY}" -X POST
+            curl -sSf "$${SPEACHES_BASE_URL}/v1/models/quantumcookie/anime-whisper-ct2-int8" -H "Authorization: Bearer ${SECRET_KEY}" -X POST
+          '
+    environment:
+      - API_KEY=${SECRET_KEY}
+    image: ghcr.io/speaches-ai/speaches:0.8.3-cuda
+    labels:  
+      createdBy: "Apps"
+
+networks:  
+  1panel-network:  
+    external: true
