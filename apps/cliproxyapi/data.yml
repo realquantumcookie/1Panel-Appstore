@@ -3,15 +3,15 @@ tags:
   - AI
 title: CLIProxyAPI
 description: 
-  en: A proxy server that provides OpenAI/Gemini/Claude/Codex compatible API interfaces for CLI.
-  zh: 一个为 CLI 提供 OpenAI/Gemini/Claude/Codex 兼容 API 接口的代理服务器。
+  en: A proxy server that provides OpenAI/Gemini/Claude/Codex/Grok compatible API interfaces for CLI.
+  zh: 一个为 CLI 提供 OpenAI/Gemini/Claude/Codex/Grok 兼容 API 接口的代理服务器。
 additionalProperties:
   key: cliproxyapi
   name: CLIProxyAPI
   tags:
     - AI
-  shortDescZh: 一个为 CLI 提供 OpenAI/Gemini/Claude/Codex 兼容 API 接口的代理服务器。
-  shortDescEn: A proxy server that provides OpenAI/Gemini/Claude/Codex compatible API interfaces for CLI.
+  shortDescZh: 一个为 CLI 提供 OpenAI/Gemini/Claude/Codex/Grok 兼容 API 接口的代理服务器。
+  shortDescEn: A proxy server that provides OpenAI/Gemini/Claude/Codex/Grok compatible API interfaces for CLI.
   type: website
   crossVersionUpdate: true
   limit: 0
